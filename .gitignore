@@ -1,0 +1,15 @@
+# Secrets / configuration locale
+.env
+.env.*
+config/database.php
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs / fichiers temporaires
+*.log
+*.tmp
