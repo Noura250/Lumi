@@ -103,20 +103,6 @@ Il faut également réfléchir à la sécurité, à l'organisation du projet, à
 
 ---
 
-## 🤖 L'utilisation de l'IA
-
-L'intelligence artificielle a également fait partie de mon apprentissage.
-
-Je l'ai utilisée lorsque je me retrouvais bloquée sur certaines notions ou lorsque je ne comprenais plus pourquoi quelque chose ne fonctionnait pas.
-
-Cependant, l'objectif n'était pas de simplement demander du code et de le copier.
-
-J'ai essayé de comprendre ce que je faisais, de tester les solutions, de modifier le code et de résoudre les problèmes rencontrés au fur et à mesure.
-
-Ce projet m'a justement permis de comprendre certaines notions grâce aux erreurs que j'ai rencontrées et aux recherches que j'ai dû faire pour les résoudre.
-
----
-
 ## 💡 Pourquoi Lumi est important pour moi
 
 Lumi représente plus qu'un simple exercice.
